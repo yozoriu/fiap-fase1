@@ -15,8 +15,7 @@ Projeto de verificação de dados de telemetria e discussão sobre energia, sust
 
 
 ### Algoritmo e gráficos
-https://github.com/user-attachments/assets/fd2ef53d-0a35-452f-88ef-e1cdc5db1342
-
+https://github.com/user-attachments/assets/782ec97f-3ec5-45ee-b749-ae7a111c1aad
 ### Borealis, a IA assistente de bordo
 https://github.com/user-attachments/assets/5dcaf1e4-d553-4a85-ab17-55726ec28537
 
